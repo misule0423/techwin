@@ -1,7 +1,8 @@
 # techwin
-Obstacle Avoidance Quadcopter
-https://www.youtube.com/watch?v=HO5QmyZm7PY
-https://www.youtube.com/watch?v=ssOO1glnw7I
+Obstacle Detection and Avoidance System for Quadcopter
+
+1. https://www.youtube.com/watch?v=HO5QmyZm7PY
+2. https://www.youtube.com/watch?v=ssOO1glnw7I
 
 Flight Controller : Flip32+(Barometer)
 ESC : Flycolor 10 Amp Multirotor ESC 2~3S with BEC * 4
